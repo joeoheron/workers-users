@@ -4,7 +4,7 @@ compatibility_date = "2024-01-17"
 
 [[kv_namespaces]]
 binding = "sessionstore"
-id = "988f705000cb4618bed4bc878d9d618e"
+id = "1068ba499b8a431fbf060cebbe36cd6c"
 
 [dev]
 port = 51511
